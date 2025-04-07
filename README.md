@@ -1,5 +1,4 @@
-<HTML>
-  import React, { useState, useEffect } from 'react';
+ import React, { useState, useEffect } from 'react';
 import { Droplets, Wrench, Phone, ChevronDown, ArrowRight, ArrowDown, Gauge, Plane, Plane as Crane, Play, MoveHorizontal, Instagram, Target, Beaker, School, Users } from 'lucide-react';
 
 function App() {
@@ -527,4 +526,3 @@ function App() {
 }
 
 export default App;
-</HTML>
